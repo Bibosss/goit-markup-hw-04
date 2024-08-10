@@ -466,3 +466,10 @@ a {
     display: flex;
     gap: 16px;
 }
+.fotter-container {
+    margin-right: 120px;
+}.media-link-list-footer {
+    height: 40px;
+    width: 40px;
+    display: flex;
+}
