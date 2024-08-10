@@ -459,6 +459,8 @@ a {
         transition-property: background-color;
         transition-duration: 250ms;
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+        width: 100%;
+        height: 100%;
 }
 .icon-team-footer {
     fill: #f4f4fd;
