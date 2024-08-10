@@ -473,3 +473,12 @@ a {
     width: 40px;
     display: flex;
 }
+.div-footer-container {
+    display: flex;
+    flex-direction: row;
+}
+.div-footer {
+    display: flex;
+    flex-direction: column;
+    margin-right: 120px;
+}
